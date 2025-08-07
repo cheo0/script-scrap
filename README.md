@@ -6,7 +6,7 @@ Proyecto en Python cuyo archivo principal es `main.py`.
 
 1. Clona el repositorio:
   ```bash
-  git clone https://github.com/tu-usuario/prueba-evolve.git
+  git clone https://github.com/cheo0/script-scrap
   ```
 2. Ingresa al directorio del proyecto:
   ```bash
